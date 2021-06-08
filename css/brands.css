@@ -102,7 +102,7 @@
   background-color: #7b16ff }
 .button.button-slack:hover,
 .button.button-slack:hover:before {
-  content: 'Coming soon...';
+  content: 'Próximamente...';
   white-space: initial; }
 
 /* Kit */
@@ -111,7 +111,7 @@
   background-color: #10c694 }
 .button.button-kit:hover,
 .button.button-kit:hover:before {
-    content: 'Coming soon...';
+    content: 'Próximamente...';
     white-space: initial; }
 
 /* YouTube */
@@ -120,7 +120,7 @@
   background-color: #FF0000 }
 .button.button-youtube:hover,
 .button.button-youtube:hover:before {
-    content: 'Este es mi canal de YouTube, nada geek... todavía!.';
+    content: 'Este es mi canal de YouTube, nada geek... todavía!';
     white-space: initial; }
 
 /* CVandLetter */
@@ -138,7 +138,7 @@
   background-color: #fffc00 }
 .button.button-mercha:hover,
 .button.button-mercha:hover:before {
-    content: 'Esta es mi tienda de merchandising, quién sabe...';
+    content: 'Próximamente...';
     white-space: initial; }
 
 /* Reddit */
@@ -147,7 +147,7 @@
   background-color: #FF4500 }
 .button.button-reddit:hover,
 .button.button-reddit:hover:before {
-    content: 'Mi pequeño foro para hacer preguntas...';
+    content: 'Próximamente... foro para hacer preguntas...';
     white-space: initial; }
 
 /* Mail */
@@ -165,7 +165,7 @@
   background-color: #ff5500 }
 .button.button-kofi:hover,
 .button.button-kofi:hover:before {
-    content: 'Si quieres, puedes comprarme un cafecito usando este link.';
+    content: 'Próximamente... Si quieres, puedes comprarme un cafecito usando este link.';
     white-space: initial; }
 
 /* Mercha */
@@ -174,5 +174,5 @@
   background-color: #fffc00 }
 .button.button-sponsors:hover,
 .button.button-sponsors:hover:before {
-    content: 'Coming soon...';
+    content: 'Próximamente...';
     white-space: initial; }
