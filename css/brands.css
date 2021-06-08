@@ -87,6 +87,15 @@
 
 /* Brand Styles
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
+/* LinkedIn */
+.button.button-linkedin {
+  color: #FFFFFF;
+  background-color: #7b16ff }
+.button.button-linkedin:hover,
+.button.button-linkedin:hover:before {
+  content: 'Perfil profesional en LinkedIn.';
+  white-space: initial; }
+
 /* Slack */
 .button.button-slack {
   color: #FFFFFF;
