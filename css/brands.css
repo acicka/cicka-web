@@ -176,3 +176,12 @@
 .button.button-sponsors:hover:before {
     content: 'Próximamente...';
     white-space: initial; }
+
+/* Clientes */
+.button.button-client {
+  color: #000000;
+  background-color: #ffcc00 }
+.button.button-client:hover,
+.button.button-client:hover:before {
+    content: 'Próximamente... clientes que confiaron en mi trabajo y esperiencia profesional...';
+    white-space: initial; }
