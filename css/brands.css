@@ -156,7 +156,7 @@
   background-color: #E8F3EC }
 .button.button-mail:hover,
 .button.button-mail:hover:before {
-    content: 'Haciendo click aquí, puedes enviarme un mail, puedo tardar en responder!';
+    content: 'Haciendo click aquí, poddés enviarme un mail, puedo tardar en responder!';
     white-space: initial; }
 
 /* Ko-Fi */
@@ -183,5 +183,5 @@
   background-color: #ffcc00 }
 .button.button-client:hover,
 .button.button-client:hover:before {
-    content: 'Próximamente... clientes que confiaron en mi trabajo y esperiencia profesional...';
+    content: 'Estos son algunos de los clientes que confiaron en mi trabajo y esperiencia profesional.';
     white-space: initial; }
